@@ -14,8 +14,8 @@
   ],
   "repoType": "mono",
   "dependencies": {
-    "B1_16Apra": {
-      "directory": "B1_16Apra"
+    "B2_16Apra": {
+      "directory": "B2_16Apra"
     }
   }
 }
